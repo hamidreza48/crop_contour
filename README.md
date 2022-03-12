@@ -1,5 +1,5 @@
 # crop_contour
-A simple function for cropping a shape inside an black bg..
+A simple function for cropping a shape inside a black bg..
 
 example------input:
 
